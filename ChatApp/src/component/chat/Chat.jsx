@@ -35,9 +35,97 @@ const Chat = () => {
                     </div>
 
                 </div>
-                <div className="middle ">
+                <div className="middle">
+
+                <div className="message">
+                <img src="./avatar.png" alt=""/>
+                <div className="texts">
+
+                   <p>
+                   The & symbol acts as a placeholder for the parent selector. This means that wherever you use &, it gets replaced with the parent selector.
+                   </p>
+                   <span>
+                    1 min ago
+                   </span>
 
                 </div>
+
+                </div>
+
+                <div className="message own">
+                <div className="texts">
+
+                   <p>
+                   The & symbol acts as a placeholder for the parent selector. This means that wherever you use &, it gets replaced with the parent selector.
+                   </p>
+                   <span>
+                    1 min ago
+                   </span>
+
+                </div>
+
+                </div>
+                <div className="message">
+                <img src="./avatar.png" alt=""/>
+                <div className="texts">
+
+                   <p>
+                   The & symbol acts as a placeholder for the parent selector. This means that wherever you use &, it gets replaced with the parent selector.
+                   </p>
+                   <span>
+                    1 min ago
+                   </span>
+
+                </div>
+
+                </div>
+                <div className="message own">
+                <div className="texts">
+
+                   <p>
+                   The & symbol acts as a placeholder for the parent selector. This means that wherever you use &, it gets replaced with the parent selector.
+                   </p>
+                   <span>
+                    1 min ago
+                   </span>
+
+                </div>
+
+                </div>
+                <div className="message">
+                <img src="./avatar.png" alt=""/>
+                <div className="texts">
+
+                   <p>
+                   The & symbol acts as a placeholder for the parent selector. This means that wherever you use &, it gets replaced with the parent selector.
+                   </p>
+                   <span>
+                    1 min ago
+                   </span>
+
+                </div>
+
+                </div>
+
+                <div className="message own">
+                
+                <div className="texts">
+                <img src="https://dfstudio-d420.kxcdn.com/wordpress/wp-content/uploads/2019/06/digital_camera_photo-1080x675.jpg"/>
+                   <p>
+                   The & symbol acts as a placeholder for the parent selector. This means that wherever you use &, it gets replaced with the parent selector.
+                   </p>
+                   <span>
+                    1 min ago
+                   </span>
+
+                </div>
+
+                </div>
+                
+
+                </div>
+                 {/* // middle */}
+                
                 <div className="bottom ">
 
                     <div className="icons">
